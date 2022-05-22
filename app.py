@@ -26,12 +26,12 @@ def after_request(response):
 if __name__ == '__main__':
     mysql_connection = DBConnection()
     model_loading = LoadNoiseSuppressorModel()
-    # model_loading2 = LoadModel()
+    model_loading2 = LoadModel()
     haar_cascade = LoadHaarCascade()
 
     print("Testing DB connection", mysql_connection)
     print("Testing model loading", model_loading)
-    # print("Testing model loading", model_loading2)
+    print("Testing model loading", model_loading2)
     print("Testing Haarcascade clf loading", haar_cascade)
 
     # set_secretkey = Auth(mysql_connection.getInstance())

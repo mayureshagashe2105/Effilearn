@@ -1,0 +1,11 @@
+.pagebody{
+    background-image: linear-gradient(0deg, #b13f3f 0%, #2a1d87 50%, #12a25f 100%);
+    position:relative;
+    padding: 100px 80px  50px  0px; 
+}
+
+.container-vid{
+    position:relative;
+    align-items: center;
+    padding: 0px 0px  50px  100px;
+}
