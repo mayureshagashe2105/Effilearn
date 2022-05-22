@@ -12,7 +12,7 @@
 /frontend/effilearn/coverage
 
 # production
-/frontend/effilearn/build
+# /frontend/effilearn/build
 
 # misc
 /frontend/effilearn.DS_Store

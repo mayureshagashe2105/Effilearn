@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.930717ee.css",
+    "main.js": "/static/js/main.a5eee856.js",
+    "static/js/787.7218af29.chunk.js": "/static/js/787.7218af29.chunk.js",
+    "static/media/4.jpg": "/static/media/4.9a3ea0396f8ba4e9b287.jpg",
+    "static/media/about-bg.jpg": "/static/media/about-bg.a9060d94036375129e85.jpg",
+    "static/media/facts-bg.jpg": "/static/media/facts-bg.da5fe4b5ab2141b2264a.jpg",
+    "static/media/1.jpg": "/static/media/1.1f0c6034536306be3397.jpg",
+    "static/media/login.jpg": "/static/media/login.ab931d77bfe905914456.jpg",
+    "static/media/5.jpg": "/static/media/5.2dd3fd1ba659ec8f8ad2.jpg",
+    "static/media/2.jpg": "/static/media/2.8037d91cd93a39976e39.jpg",
+    "static/media/3.jpg": "/static/media/3.e19fe1f237ea38a75f19.jpg",
+    "static/media/call-to-action-bg.jpg": "/static/media/call-to-action-bg.e042e953c37d53e52490.jpg",
+    "static/media/about-vision.jpg": "/static/media/about-vision.bae2b434cdf57ffc98ab.jpg",
+    "static/media/about-mission.jpg": "/static/media/about-mission.d1d7c554e04d44c91548.jpg",
+    "static/media/about-plan.jpg": "/static/media/about-plan.c0f51c0f815c396221e7.jpg",
+    "static/media/cover.png": "/static/media/cover.488bbc0281e0963582d9.png",
+    "index.html": "/index.html",
+    "main.930717ee.css.map": "/static/css/main.930717ee.css.map",
+    "main.a5eee856.js.map": "/static/js/main.a5eee856.js.map",
+    "787.7218af29.chunk.js.map": "/static/js/787.7218af29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930717ee.css",
+    "static/js/main.a5eee856.js"
+  ]
+}
