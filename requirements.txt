@@ -8,5 +8,5 @@ mysql_connector_repackaged==0.3.1
 numpy==1.22.4
 Pillow==9.1.1
 python-decouple==3.6
-tensorflow==2.9.0
-gunicorn
+tensorflow-cpu==2.9.0
+Gunicorn
