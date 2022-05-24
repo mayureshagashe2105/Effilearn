@@ -1,6 +1,8 @@
 # Effilearn
 A step towards e-learning/online learning enhancement
 
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mayureshagashe2105/reva-hack-live-noise-suppression/main/app.py)
+
 ## Understanding the Problem Statement
 Due to this unforeseen COVID-19 pandemic learning sector has undergone substantial changes. Many untrivial methods like online schooling and self-paced video lecture courses are now leading the era of newly found online learning methodologies. Despite the effectiveness of these methods, there are a lot of challenges to be addressed to exploit the capability of online learning to its fullest.
 
@@ -54,6 +56,7 @@ __4. Dashboard MONITORING:__
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 
 
